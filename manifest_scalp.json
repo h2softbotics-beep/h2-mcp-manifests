@@ -1,0 +1,9 @@
+{
+  "name": "mcp_scalp",
+  "version": "1.0.0",
+  "type": "http",
+  "endpoint": "https://www.h2softbotics.com/mcp_scalp/mcp",
+  "health": "https://www.h2softbotics.com/mcp_scalp/health",
+  "description": "H2 Softbotics Scalp MCP (HTTP POST /mcp). No auth.",
+  "auth": "none"
+}
