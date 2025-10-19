@@ -1,0 +1,9 @@
+{
+  "name": "mcp_grid",
+  "version": "1.0.0",
+  "type": "http",
+  "endpoint": "https://www.h2softbotics.com/mcp_grid/mcp",
+  "health": "https://www.h2softbotics.com/mcp_grid/health",
+  "description": "H2 Softbotics Grid MCP (HTTP POST /mcp). No auth.",
+  "auth": "none"
+}
