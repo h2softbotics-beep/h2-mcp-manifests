@@ -1,0 +1,9 @@
+{
+  "name": "mcp_swing",
+  "version": "1.0.0",
+  "type": "http",
+  "endpoint": "https://www.h2softbotics.com/mcp_swing/mcp",
+  "health": "https://www.h2softbotics.com/mcp_swing/health",
+  "description": "H2 Softbotics Swing MCP (HTTP POST /mcp). No auth.",
+  "auth": "none"
+}
